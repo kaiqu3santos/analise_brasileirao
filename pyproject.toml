@@ -1,0 +1,15 @@
+[project]
+name = "brasileiraodataset"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=7.1.0",
+    "jupyterlab>=4.4.10",
+    "matplotlib>=3.10.7",
+    "numpy>=2.3.4",
+    "pandas>=2.3.3",
+    "plotly-express>=0.4.1",
+    "seaborn>=0.13.2",
+]

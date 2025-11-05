@@ -1,4 +1,4 @@
-Time,Classificação,Serie,Ano,Pontos,Jogos,Vitórias,Empates,Derrotas,Gols_Pro,Gols_Contra,Saldo_Gols,Cartoes_Amarelos,Cartoes_Vermelhos,Aproveitamento (%)
+time,classificacao,serie,ano,pontos,jogos,vitorias,empates,derrotas,gols_pro,gols_contra,saldo_gols,cartoes_amarelos,cartoes_vermelhos,aproveitamento
 Palmeiras,1,serie-a,2018,80,38,23,11,4,64,26,38,117,5,70
 Flamengo,2,serie-a,2018,72,38,21,9,8,59,29,30,83,10,63
 Internacional,3,serie-a,2018,69,38,19,12,7,51,29,22,96,6,60
